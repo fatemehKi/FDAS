@@ -1,0 +1,25 @@
+Syllabus for FDAS Final
+
+Measures of central tendencies (mean, median, mode)
+Measure of dispersion (absolute deviation, standard deviation, 
+			variance, range, IQR)
+Measure of relative standing (Quartiles, Z-scores)
+Different types of data (numeric vs categorical)
+Different types of attributes/variables (independent vs dependent)
+Differences between descriptive vs inferential statistics
+Theory of Probability (Basic) 
+	- P(E), P(E1 or E2), P(E1 and E2) 
+	//when E1 and E2 are mutually exclusive
+	//when E1 and E2 are dependent
+	//when E1 and E2 are independent
+Probability Distribution (discrete and continuous)
+	- Binomial
+	- Normal and Student-T
+Sampling Distribution of Sample Means
+Confidence Interval estimation of popluation mean
+Hypothesis Testing of one - population mean (z-test or t-test)
+Hypothesis Testing of two - population mean (t-test [paired or independent])
+Correlation analysis (Pearson and Spearman)
+	
+
+

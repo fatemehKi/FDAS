@@ -1,0 +1,15 @@
+Practice:
+
+1. An FBI survey shows that about 80% of all property crimes go unsolved. Suppose that in your town 3 such crimes are committed and they are each deemed independent of each other.
+
+What is the probability that a) 1 of  the three of these crimes will be solved and b) that at least one of the crimes will be solved?
+
+What is the expected number of crimes that remain unsolved and the standard deviation? 
+
+
+
+2. Hospital records show that of patients suffering from a certain disease, 75% die of it. What is the probability that of 6 randomly selected patients, 4 will recover?
+
+
+3. A manufacturer of metal pistons finds that on the average, 12% of his pistons are rejected because they are either oversize or undersize. What is the probability that a batch of 10 pistons will contain
+no more than 2 rejects?

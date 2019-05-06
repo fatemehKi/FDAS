@@ -1,0 +1,17 @@
+Syllabus for FDAS Test-1
+
+Measures of central tendencies (mean, median, mode)
+Measure of dispersion (absolute deviation, standard deviation, 
+			variance, range, IQR)
+Measure of relative standing (Quartiles, Z-scores)
+Different types of data (numeric vs categorical)
+Different types of attributes/variables (independent vs dependent)
+Differences between descriptive vs inferential statistics
+Theory of Probability (Basic) 
+	- P(E), P(E1 or E2), P(E1 and E2) 
+	//when E1 and E2 are mutually exclusive
+	//when E1 and E2 are dependent
+	//when E1 and E2 are independent
+	
+
+
